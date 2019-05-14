@@ -16,6 +16,7 @@ If you have an issue with numpy.core.multiarray, remove the currently installed 
       $ pip install -U numpy
 ```
 2. Build the Fully connected CRF wrapper:
+
 Install the Eigen3 package and link the installed custum Eigen3 folder to '/usr/local/include/Eigen'. Then
 ```bash
       $ pip install CRF/
