@@ -67,7 +67,7 @@ def train_v1():
         {'params': get_parameters(model, bias=True, final=True), 'lr': base_lr * 20, 'weight_decay': 0}
     ], lr=base_lr, momentum=momentum, weight_decay=wt_decay)
     optimizer.zero_grad()
-    dict_src = cPickle.load(open('localization_cues.pickle'))
+    dict_src = cPickle.load(open('localization_cues/localization_cues.pickle'))
 
 
     # train
