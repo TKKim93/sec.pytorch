@@ -28,7 +28,7 @@ Install the Eigen3 package and link the installed custum Eigen3 folder to '/usr/
       $ conda install pytorch=0.4.1 torchvision cuda80 -c pytorch
 ```
 ### Data preparation
-1. Prepare [initial vgg16 model](https://drive.google.com/open?id=1oRPzan6-Zy7VVcopesRX2s4VxebOPb2_) pretrained on ImageNet.
+1. Prepare the [initial vgg16 model](https://drive.google.com/open?id=1oRPzan6-Zy7VVcopesRX2s4VxebOPb2_) pretrained on ImageNet.
 ```bash
       $ mkdir vgg16_20M
 ```
