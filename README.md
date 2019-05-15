@@ -41,6 +41,7 @@ Then download the model [parameters](https://drive.google.com/open?id=1oRPzan6-Z
 ```
 
 3. Prepare dataset (e.g., PASCAL VOC 2012) and update the directory in train.py.
+
 https://github.com/TKKim93/sec.pytorch/blob/6094f3a55a755f6159d01917e4a7d49bf389d891/train.py#L25
 https://github.com/TKKim93/sec.pytorch/blob/6094f3a55a755f6159d01917e4a7d49bf389d891/train.py#L26
 https://github.com/TKKim93/sec.pytorch/blob/6094f3a55a755f6159d01917e4a7d49bf389d891/train.py#L27
