@@ -33,6 +33,7 @@ Install the Eigen3 package and link the installed custum Eigen3 folder to '/usr/
       $ mkdir vgg16_20M
 ```
 Then download the model [parameters](https://drive.google.com/open?id=1oRPzan6-Zy7VVcopesRX2s4VxebOPb2_).
+
 2. Prepare localization cues.
 ```bash
       $ cd localization_cues
