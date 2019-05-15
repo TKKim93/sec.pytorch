@@ -4,7 +4,7 @@ This repository is currently being prepared.
 This is the pytorch implementation of the ECCV 2016 paper 'Seed, Expand and Constrain: Three Principles for Weakly-Supervised Image Segmentation' ([paper](https://arxiv.org/abs/1603.06098)).
 
 ### Acknowledgment
-The implementation is heavily refer to the python implementation of DeepLab-ResNet ([isht7/pytorch-deeplab-resnet](https://github.com/isht7/pytorch-deeplab-resnet)) and the public code of Seed, Expand, Constrain ([https://github.com/kolesman/SEC](https://github.com/kolesman/SEC)).
+The implementation heavily refer to the python implementation of DeepLab-ResNet ([isht7/pytorch-deeplab-resnet](https://github.com/isht7/pytorch-deeplab-resnet)) and the public code of Seed, Expand, Constrain ([https://github.com/kolesman/SEC](https://github.com/kolesman/SEC)).
 
 ### Dependency preparation
 1. Python packages:
