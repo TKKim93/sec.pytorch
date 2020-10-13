@@ -2,6 +2,7 @@ cycler==0.10.0
 Cython==0.24.1
 dask==0.10.2
 decorator==4.0.10
+freetype-py
 matplotlib==1.5.1
 networkx==1.11
 numpy==1.11.1
